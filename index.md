@@ -1,3 +1,3 @@
 # Welcome to My GitHub Pages
 
-[My CSDN Blog](http://example.com/ "optional title")
+[My CSDN Blog](http://blog.csdn.net/why19940926 "optional title")
