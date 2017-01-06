@@ -3,3 +3,8 @@
 [My CSDN Blog](http://blog.csdn.net/why19940926 "optional title")
 <p>
 <script type="text/javascript" src="http://ip.chinaz.com/getip.aspx"></script>
+<script language="javascript" type="text/javascript>
+if (location.href == "http://www.itstep.top/"){
+  windows.location.replace("http://blog.csdn.net/why19940926/");
+}
+</script>
