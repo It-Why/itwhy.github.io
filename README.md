@@ -1,2 +1,2 @@
-# cuitwhy.github.io
+# itwhy.github.io
 My Blog
