@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <script>
-    function browserRedirect() {
+    function browserRedirect() 
+    {
         var sUserAgent = navigator.userAgent.toLowerCase();
         var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
         var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
@@ -11,15 +12,18 @@
         var bIsAndroid = sUserAgent.match(/android/i) == "android";
         var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
         var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
-        if (!(bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM)) {
+        if (!(bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM)) 
+        {
             window.location.href = "http://blog.csdn.net/why19940926";
-        } else {
+        } 
+        else 
+        {
             window.location.href = "http://m.blog.csdn.net/blog/index?username=why19940926";
         }
     }
     browserRedirect();
 </script>
 <body>
-    <h1>GitHubÌø×ªCSDN²©¿Í</h1>
+    <h1>Welcome to My GitHub Page!</h1>
 </body>
 </html>
